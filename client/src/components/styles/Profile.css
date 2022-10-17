@@ -1,0 +1,30 @@
+.container-3 {
+    max-width: 550px;
+    margin: 0 auto;
+}
+.profile_pic {
+    object-fit: cover;
+}
+.profile_container {
+    margin: 18px, 0px;
+    border-bottom: 1px solid black;
+    
+}
+.x{
+    display: flex;
+    justify-content: space-around;
+}
+.infos {
+    display: flex;
+    justify-content: space-between;
+    width: 108%;
+}
+.gallery {
+    display: flex;
+    object-fit: cover;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.item {
+    width: 30%;
+}

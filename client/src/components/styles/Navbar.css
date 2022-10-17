@@ -1,0 +1,10 @@
+.links {
+    color: black;
+}
+/* .collection-item{
+    width: 100%;
+    color: 'black';
+} */
+.material-icons:hover{
+    cursor: pointer;
+  }

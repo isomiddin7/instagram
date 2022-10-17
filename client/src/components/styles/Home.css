@@ -1,0 +1,9 @@
+
+.home_card {
+    max-width: 500px;
+    height: max-content;
+    margin: 26px auto;
+}
+.card_content{
+    padding: 0 16px;
+}
